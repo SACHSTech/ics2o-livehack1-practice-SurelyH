@@ -1,6 +1,6 @@
 '''
 -------------------------------------------------------------------------------
-Name:		days_hours.py
+Name:		minutes_days.py
 Purpose:  Minutes to days, hours, and minutes
 
 Author:	Huang.S
